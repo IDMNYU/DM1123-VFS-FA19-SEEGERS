@@ -80,43 +80,43 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 
 
-### VFS-A Assigned Partners and Creators
+### VFS-B Assigned Partners and Creators
 
 **Tuesday, Sept 10 (next class)**
 
-\- Tasmia and Idriss - Tibor Kalman
+\- Jessica and Alex - Tibor Kalman
 
-\- Jasmine and George - Guerilla Girls
+\- Ashley and Jennifer - Guerilla Girls
 
 
 
 **Thurs, Sept 12**
 
-\- Annlie and James - Josef Muller Brockman
+\- MJ and Sammy - Josef Muller Brockman
 
-\- Dominique and Shipon - Barbara Kruger
+\- Fiona and Irene - Barbara Kruger
 
 
 
 **Tues, Sept 17**
 
-\-  Niki and Alessia - Muriel Cooper 
+\-  Sandy and Philip - Muriel Cooper 
 
-\-  Maria and Thomas - Sophie Tauber Arp
+\- Yangxin and Caleb - Sophie Tauber Arp
 
 
 
-**Thurs,**  **Sept** **19**
+**Thurs,** **Sept** **19**
 
-\- Simon and Micah - David Carson
+\-  Sean and Kaitlyn - David Carson
 
-\- Leo, Nicole and Emma - Anni Albers
+\-  Alisha and Bridget - Anni Albers
 
 
 
 **Tues,** **Sept** **24**
 
-\- Theresa and Leslie - Paula Scher
+\-  Ty, Emily and Eric - Paula Scher
 
 
 
