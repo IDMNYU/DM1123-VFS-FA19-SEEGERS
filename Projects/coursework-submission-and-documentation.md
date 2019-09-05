@@ -18,4 +18,7 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 If your work is archived on your personal servers, there is a possibility that you would delete your archives after they graduate or even sooner.
 
+## File Management
 
+* Use a file management system of folders for each project and draft to keep your files organized and available.
+* 

@@ -40,6 +40,88 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 
 
+### VFS-A Assigned Partners and Creators
+
+**Tuesday, Sept 10 (next class)**
+
+\- Tasmia and Idriss - Tibor Kalman
+
+\- Jasmine and George - Guerilla Girls
+
+
+
+**Thurs, Sept 12**
+
+\- Annlie and James - Josef Muller Brockman
+
+\- Dominique and Shipon - Barbara Kruger
+
+
+
+**Tues, Sept 17**
+
+\-  Niki and Alessia - Muriel Cooper 
+
+\-  Maria and Thomas - Sophie Tauber Arp
+
+
+
+**Thurs,**  **Sept** **19**
+
+\- Simon and Micah - David Carson
+
+\- Leo, Nicole and Emma - Anni Albers
+
+
+
+**Tues,** **Sept** **24**
+
+\- Theresa and Leslie - Paula Scher
+
+
+
+### VFS-A Assigned Partners and Creators
+
+**Tuesday, Sept 10 (next class)**
+
+\- Tasmia and Idriss - Tibor Kalman
+
+\- Jasmine and George - Guerilla Girls
+
+
+
+**Thurs, Sept 12**
+
+\- Annlie and James - Josef Muller Brockman
+
+\- Dominique and Shipon - Barbara Kruger
+
+
+
+**Tues, Sept 17**
+
+\-  Niki and Alessia - Muriel Cooper 
+
+\-  Maria and Thomas - Sophie Tauber Arp
+
+
+
+**Thurs,**  **Sept** **19**
+
+\- Simon and Micah - David Carson
+
+\- Leo, Nicole and Emma - Anni Albers
+
+
+
+**Tues,** **Sept** **24**
+
+\- Theresa and Leslie - Paula Scher
+
+
+
+
+
 ---
 
 

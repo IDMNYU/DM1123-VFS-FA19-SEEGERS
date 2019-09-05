@@ -102,17 +102,17 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 - 15% attendance
 - 15% [Project 1: Logo (midterm)](/projects/01-logo-project.md)
-- 15% [Project 2: Physical Application](/projects/02-physica-application.md)
-- 15% [Project 3: Time Interface](/projects/03-interface-project.md)
+- 15% [Project 2: Physical Application](/Projects/02-physica-application.md)
+- 15% [Project 3: Time Interface](/Projects/03-interface-project.md)
 - 12% class exercises 
 - 10% class participation
 - 5% end of semester portfolio PDF (or book for extra credit)
-- 2.5% [logo show and tell](projects/show-and-tells.md)
-- 2.5% [creator show and tell](projects/show-and-tells.md)
-- 2% [reading responses](projects/reading-responses.md)
-- 2% [tickets to leave](projects/tickets-to-leave.md)
-- 2% [midterm (final logo) self assessment](projects/self_assessments.md)
-- 2% [final (physical application) self assessment and letter to next cohort](projects/self_assessments.md)
+- 2.5% [logo show and tell](Projects/show-and-tells.md)
+- 2.5% [creator show and tell](Projects/show-and-tells.md)
+- 2% [reading responses](Projects/reading-responses.md)
+- 2% [tickets to leave](Projects/tickets-to-leave.md)
+- 2% [midterm (final logo) self assessment](Projects/self_assessments.md)
+- 2% [final (physical application) self assessment and letter to next cohort](Projects/self_assessments.md)
 
 
 ##### Qualitative Grading Overview
@@ -178,9 +178,9 @@ These books (*) are available for purchase in the NYU bookstore, and will be on 
 
 ### REQUIRED SOFTWARE
 
-* Adobe Photoshop CC 2018
-* Adobe Illustrator CC 2018
-* Adobe Indesign CC 2018
+* Adobe Photoshop CC 2019
+* Adobe Illustrator CC 2019
+* Adobe Indesign CC 2019
 * Adobe Acrobat DC
 
 ### [RECOMMENDED RESOURCES](recommended-resources.md)
@@ -192,22 +192,22 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 See appendices for all of the following:
 
-* [IDM Coursework Documentation](projects/coursework-submission-and-documentation.md)
-* [End of Semester Deliverables](projects/end-of-semester-deliverables.md)
+* [IDM Coursework Documentation & File Management](Projects/coursework-submission-and-documentation.md)
+* [End of Semester Deliverables](Projects/end-of-semester-deliverables.md)
 
 #### Projects
-*  [01-Logo_Project](projects/01-logo-project.md) 
-*  [02-Physical_Application](projects/02-physical-application.md) 
-*  [03-Interface_Project](projects/03-interface-project.md) 
+*  [01-Logo_Project](Projects/01-logo-project.md) 
+*  [02-Physical_Application](Projects/02-physical-application.md) 
+*  [03-Interface_Project](Projects/03-interface-project.md) 
 
 #### Assignments
-*  [Reading_Responses.md](projects/reading_responses.md) 
+*  [Reading_Responses.md](Projects/reading_responses.md) 
 
-*  [Self_Assessments & Letter to Next Cohort.md](projects\self-assessments.md) 
+*  [Self_Assessments & Letter to Next Cohort.md](Projects\self-assessments.md) 
 
-*  [Show_and_Tells.md](projects/show-and-tells.md) 
+*  [Show_and_Tells.md](Projects/show-and-tells.md) 
 
-*  [Tickets_to_Leave.md](projects/tickets-to-leave.md) 
+*  [Tickets_to_Leave.md](Projects/tickets-to-leave.md) 
 
   
 

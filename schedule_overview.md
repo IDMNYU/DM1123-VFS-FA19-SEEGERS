@@ -40,7 +40,7 @@ Prerequisites: None
 
 - **September 10**  
   - Color Lecture
-  -  [Color_Exercise](Exercises\02-color-exercise.md) 
+  -  [Color Exercise](Exercises\02-color-exercise.md) 
 - **September 12**  
   - Adobe Photoshop  Introduction
 
