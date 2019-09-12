@@ -13,7 +13,7 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 **Post to the #exercise-image-trace**
 
-Choose a crop from Hieronymous Bosch's Garden of Earthly Delights, here: https://tuinderlusten-jheronimusbosch.ntr.nl/en
+Choose a crop from Hieronymous Bosch's Garden of Earthly Delights, found here: https://en.wikipedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg
 
 - Use Illustrator to create a vector artwork interpretation using ONLY strokes
 - Use the auto-trace function in Illustrator to create a vector version of the image using strokes AND fills
