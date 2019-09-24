@@ -66,14 +66,48 @@ Create a logo for your selected brand using Adobe Illustrator.
 
 **VFS Section A:**
 Group A:
-
+- Alessia
+- George
+- Leo
+- Annlie
+- Dominique
+- Thomas
+- Jasmine
+- Emma
+- Tasmia
 
 Group B:
+- Niki
+- Micah
+- Maria
+- Nelson
+- Leslie
+- Shipon
+- Idriss
+- Nicole
+- Simon
 
 
 **VFS Section B:**
 Group A:
-
+- Alisha
+- Ty
+- Jennifer
+- Sammy
+- Irene
+- MJ
+- Alex
+- Bridget
+- Jessica
 
 Group B:
+- Sandy
+- Emily
+- Philip
+- Yangxin
+- Sean
+- Kaitlyn
+- Caleb
+- Fiona
+- Ashley
 
