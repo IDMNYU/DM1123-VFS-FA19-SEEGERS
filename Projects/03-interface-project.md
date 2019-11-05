@@ -11,7 +11,7 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 
 ## PROJECT 3: TIME INTERFACE
-Using InDesign, you will design wireframes for a digital screen interface to display some aspect of time. This could be a clock, a time-keeper, a stopwatch, something that keeps track of cyclical time, but can be any representation of time, presented on the subway platform waiting screens.
+Using InDesign, you will design wireframes for a [Link NYC](https://www.link.nyc/) digital screen interface to display some aspect of time. This could be a clock, a time-keeper, a stopwatch, something that keeps track of cyclical time, but can be any representation of time, presented on the Link NYC waiting screens.
 
 #### Preliminary Research
 Put together an Are.na channel of visual references that relate to both the *visual and technical* components of your time interface
@@ -19,8 +19,8 @@ Put together an Are.na channel of visual references that relate to both the *vis
 #### INTERFACE 1st Draft: Wireframes    
 Post to the #exercise-interface Slack channel in grayscale (includes black and white). 
 
-* Create a wireframe of your interface in mobile device dimensions. 
-* Every single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
+* Create a wireframe of your interface in 55" screen dimensions (47.9" H x 27" W or 3840px H x 2160px W). 
+* A placeholder for every single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Use Lorem Ipsum for placeholder text at this stage.
 
 #### INTERFACE 2nd Draft: High-Fidelity Wireframes  
