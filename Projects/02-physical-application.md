@@ -34,6 +34,10 @@ Post a PDF (exported from Illustrator/Photoshop) in the #project-physapp channel
 * Select only 1 applied state (yes, this is repeated.)
 * Do at least 3 different variations of the selected physical application of your logo. 
 * Each variation on a page with letter dimensions (8 1/2 x 11)
+* Come to class with research of how and where you can fabricate your object, be prepared to present this research
+  * if you need to order material, where will you order it from?
+  * if you need to use a machine in the maker space, which machine, how will you prepare your design to make a fabrication file?
+  * if you are using a video tutorial/wikihow/instruction manual bring it in/link to it and show us so your classmates can see it
 
 #### Physical Application Final    
 Get your final physical application produced/fabricated at a service bureau of your choice, using the NYU Tandon maker space, or using your own ingenuity and craft.
