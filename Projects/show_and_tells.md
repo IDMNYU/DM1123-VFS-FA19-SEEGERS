@@ -128,15 +128,14 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 #### BRAND SHOW & TELLS
 
-- Pair up w/ 1 classmate 
-- Select an established brand from the list below that has had at least 3 logo iterations (ideally more) over the years.
+- I will assign each pair an established brand from the list below that has had at least 3 logo iterations over the years.
   - One brand per team. Teams can not do the same brand.
 - Create a **7 minutes or less** presentation (pdf, powerpoint, keynote, google slides etc.) that shows and discusses the history of the evolution of the logo. 
 - You should find out the name of the logo designer (if you can), the dates that the logo was redesigned, and why it was redesigned.
 - Cite your sources
 - Decide whether or not you want to mirror your screen for your presentation or not (if you're using presentation tools)
   - Get familiar with your display preferences
-  - If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**
+
 
 **Brands**
 

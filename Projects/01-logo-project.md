@@ -34,13 +34,13 @@ Create a logo for your selected brand using Adobe Illustrator.
 
 
 #### LOGO 2nd Draft  
-* Make a multi-artboard Illustrator file
-* Add the name of your brand, along with a very brief description (1 to 2 sentences max) of what your logo is to the top of each page
-* Choose 3 of your 10 previous design directions, and do **at least 5 different variations of each logo** iterations in grayscale (black & white) or color, for a total of ***at least* 15 iterations**.
+* Make a new multi-artboard Illustrator file
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 15 pages
-* For this draft, you must design a small version (a little bigger than postage stamp size, or 2"x2") of each of your 15 iterations, placed in the lower left hand corner of the page board.
-* Post a multi-page PDF (export from Illustrator) to the Slack channel #project-logo
-* You DO NOT need to print it out, we will be looking at this draft on your computer screen in Illustrator
+* Choose 3 of your 10 previous design directions, and do **at least 5 different variations of each logo** for a total of ***at least* 15 iterations**.
+* You may now incorporate color if you like.
+* For this draft, you must design a small version (a little bigger than app icon size, or 1"x1") of each of your 15 iterations, placed in the lower left hand corner of the page board.
+* Post a multi-page PDF (save as->PDF from Illustrator) to the Slack channel #project-logo
+* You **DO NOT need to print it out,** we will be looking at this draft on your computer screen in Illustrator
 
 #### LOGO Final  
 * Post a PDF (export from Illustrator) to the Slack channel #project-logo
@@ -66,14 +66,48 @@ Create a logo for your selected brand using Adobe Illustrator.
 
 **VFS Section A:**
 Group A:
-
+- Alessia
+- George
+- Leo
+- Annlie
+- Dominique
+- Thomas
+- Jasmine
+- Emma
+- Tasmia
 
 Group B:
+- Niki
+- Micah
+- Maria
+- Nelson
+- Leslie
+- Shipon
+- Idriss
+- Nicole
+- Simon
 
 
 **VFS Section B:**
 Group A:
-
+- Alisha
+- Ty
+- Jennifer
+- Sammy
+- Irene
+- MJ
+- Alex
+- Bridget
+- Jessica
 
 Group B:
+- Sandy
+- Emily
+- Philip
+- Yangxin
+- Sean
+- Kaitlyn
+- Caleb
+- Fiona
+- Ashley
 
