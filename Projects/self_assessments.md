@@ -45,9 +45,3 @@ Critically analyze/evaluate your visual foundation process and how it is has cha
 
 * What assignment(s) did you like the most and why?
 * What assignment(s) did you like the least and why?
-
-
-
-#### LETTER TO NEXT COHORT   
-
-Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
