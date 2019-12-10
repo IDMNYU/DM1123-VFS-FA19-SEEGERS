@@ -11,30 +11,39 @@ Tuesdays & Thursdays • 10:30-12:20PM & 2:30-4:20PM • 370 Jay Street, 310 & 3
 
 ### END OF SEMESTER DELIVERABLES
 
-#### END OF SEMESTER PDF
+Due via email/google drive share by Wednesday, December 18th, 5PM
+
+#### 1. END OF SEMESTER PDF
 This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
 
 PDF Cover:
 
 * Your first and last name
-* Visual Foundation Studio Spring 2019 or VFS Spring 2019 
+* Visual Foundation Studio Fall 2019 or VFS Fall 2019 
 
-Before each assignment, a header that labels each project (See below.)
+Before each assignment, a header that labels each project or exercise (See below.)
 
+**Projects**
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
-* 04 Interface-Wireframes & Research
-* 05 Interface-Low Fidelity Prototypes
-* 06 Interface-Final
+* 04 Time Interface-Draft 1 Wireframes & Research
+* 05 Time Interface-Low Fidelity Prototypes
+* 06 Time Interface-Final Draft
 * 07 Physical Application–1st draft
 * 08 Physical Application–2nd draft
 * 09 Physical Application–Final
 
+**Exercises**
+- Color
+- Expressive Type
+- Image Trace
+- Interface Trace
 
-#### END OF SEMESTER *GOOGLE DRIVE* LINK REQUIREMENTS  
 
-Create a folder in your NYU-managed Google Drive account with the following contents:
+#### 2. END OF SEMESTER *GOOGLE DRIVE* LINK REQUIREMENTS  
+
+Using your final portfolio InDesign file, create a packaged, zipped folder in your NYU-managed Google Drive account with the following contents:
 
 Folders:
 
@@ -58,7 +67,7 @@ Make sure that images are included if they are not embedded within illustrator.
 **To do this in InDesign, use the PACKAGE (File->Package) command in InDesign. See the InDesign video tutorial here: https://helpx.adobe.com/indesign/how-to/indesign-package-files-for-handoff.html**
 
 
-#### Letter to Next Cohort
+#### 3. Letter to Next Cohort
 
 *Email your letter as a pdf to jseegers@nyu.edu.*
 
